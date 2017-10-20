@@ -1,0 +1,17 @@
+.container {
+	background-color: green;
+	text-align: center;
+	margin: 40px;
+	width: auto;
+	font-weight: bold;
+	font-size: larger;
+}
+
+.col-lg-6, .col-lg-4, .col-lg-8 {
+	border: solid black;
+	border-radius: 5%;
+}
+
+p {
+	line-height: 30px;
+}
