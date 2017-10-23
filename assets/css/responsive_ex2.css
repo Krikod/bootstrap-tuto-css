@@ -1,0 +1,20 @@
+.container {
+	padding: 20px;
+	line-height: 100px;
+	font-weight: bold;
+	text-align: center;
+	font-size: larger;
+}
+
+[class *="col"] {
+	background-color: #90EE90;
+	border: solid black;
+	border-radius: 5px;
+}
+.row nav {
+	line-height: 120px;
+}
+
+.row section {
+	line-height: 240px;
+}

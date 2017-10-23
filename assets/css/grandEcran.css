@@ -1,0 +1,17 @@
+.container {
+	padding: 40px;
+	line-height: 100px;
+	font-weight: bold;
+	text-align: center;
+	font-size: larger;
+}
+
+[class *="col"] {
+	background-color: #90EE90;
+	border: solid black;
+	border-radius: 5px;
+}
+
+.container .row section {
+	line-height: 250px;
+}
