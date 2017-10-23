@@ -9,7 +9,7 @@
 	line-height: 30px;
 }
 
-.col-lg-6, .col-lg-4, .col-lg-8, .col-lg-12, .col-lg-2, .col-lg-10, footer {
+[class *="col"], footer {
 	border: solid black;
-	border-radius: 5%;
+	border-radius: 5px;
 }
